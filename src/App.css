@@ -1,8 +1,5 @@
-.card {
-  border: 1px solid black;
-  width: 300px;
-  padding: 10px;
-}
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 h1 {
-  color: aqua;
+  color: rgb(26, 45, 45);
 }
